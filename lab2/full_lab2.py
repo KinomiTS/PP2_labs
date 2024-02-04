@@ -1,6 +1,6 @@
 #Booleans 
  
-print(10 > 9) 
+print(10 > 8) 
 True 
  
 print(10 == 9) 
